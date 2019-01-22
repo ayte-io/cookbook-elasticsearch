@@ -1,0 +1,13 @@
+AllCops:
+  TargetRubyVersion: 2.5.0
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+  IndentationWidth: 2
+Layout/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+Style/Documentation:
+  Enabled: false
+Metrics/MethodLength:
+  Max: 15
+Metrics/BlockLength:
+  Enabled: false

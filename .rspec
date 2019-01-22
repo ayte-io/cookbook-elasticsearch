@@ -1,0 +1,3 @@
+--default-path test
+--require dependencies
+--pattern unit/**/*.spec.rb

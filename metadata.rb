@@ -1,0 +1,11 @@
+name 'ayte-elasticsearch'
+maintainer 'Ayte Labs'
+maintainer_email 'ops@ayte.team'
+license 'MIT'
+description 'ElasticSearch extension resources'
+long_description 'ElasticSearch extension resources'
+version '0.1.0'
+chef_version '>= 13.0'
+
+source_url 'https://github.com/ayte-io/cookbook-elasticsearch'
+issues_url 'https://github.com/ayte-io/cookbook-elasticsearch/issues'
